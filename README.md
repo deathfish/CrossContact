@@ -38,4 +38,4 @@
 
 ## 简易架构图
 
-![简易架构图](https://github.com/deathfish/CrossCard/blob/master/img/crosscard.png)
+![简易架构图](img/crosscard.png)
